@@ -33,4 +33,30 @@
 
 项目演示：
 
-![1](https://github.com/ChunchunIsMe/Travel/blob/master/showimg/1.PNG)
+用户登录界面
+
+![1](https://github.com/ChunchunIsMe/shareBike/blob/master/showimg/1.PNG)
+
+用户借车界面
+
+![2](https://github.com/ChunchunIsMe/shareBike/blob/master/showimg/2.PNG)
+
+用户还车界面
+
+![3](https://github.com/ChunchunIsMe/shareBike/blob/master/showimg/3.PNG)
+
+工作人员登录界面
+
+![4](https://github.com/ChunchunIsMe/shareBike/blob/master/showimg/4.PNG)
+
+工作人员操作界面
+
+![5](https://github.com/ChunchunIsMe/shareBike/blob/master/showimg/5.PNG)
+
+增加自行车之后的显示
+
+![6](https://github.com/ChunchunIsMe/shareBike/blob/master/showimg/6.PNG)
+
+增加的二维码
+
+![7](https://github.com/ChunchunIsMe/shareBike/blob/master/showimg/7.PNG)
