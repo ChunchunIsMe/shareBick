@@ -1,0 +1,76 @@
+body, html, #allmap {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	margin: 0;
+	font-family: "Î¢ÈíÑÅºÚ";
+}
+
+button {
+	border: 0;
+	cursor: pointer;
+	outline: 0;
+	display: inline-block;
+	color: white;
+	background-repeat: round;
+}
+
+.fix {
+	cursor: pointer;
+	display: block;
+	background-image: url(../img/fix.png);
+	background-repeat: round;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	color: white;
+	position: fixed;
+	left: 10px;
+	bottom: 220px;
+}
+.file {
+	display: none;
+}
+
+.user {
+	width: 101px;
+	height: 101px;
+	background-image: url(../img/user.png);
+	border-radius: 50%;
+}
+
+nav {
+	position: fixed;
+	bottom: 50%;
+	right: 20px;
+}
+
+header {
+	width: 355px;
+	position: fixed;
+	right: 101px;
+	bottom: 380px;
+	display: none;
+}
+
+nav:hover>header {
+	display: block;
+}
+
+.bottomButton {
+	background-color: #418ce2;
+	position: fixed;
+	bottom: 100px;
+	font-size: 25px;
+	width: 300px;
+	height: 90px;
+	left: 50%;
+	margin-left: -150px;
+	border-radius: 45px;
+	color: white;
+	line-height: 90px;
+	text-align: center;
+	cursor: pointer;
+}
